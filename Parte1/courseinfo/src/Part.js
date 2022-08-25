@@ -3,7 +3,7 @@
 const Part = (props) => {
 
     return (
-        <p>{props.part} {props.exercise}</p>
+        <p>{props.eco} {props.suba}</p>
     )
 
 }
